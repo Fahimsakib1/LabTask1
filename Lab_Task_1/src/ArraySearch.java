@@ -4,7 +4,7 @@ public class ArraySearch {
 	
 	{
 		
-		String[] Item = new String[] { "Apple","Ball","Cat","Dog","Eagle"};
+		String[] Item = { "Apple","Ball","Cat","Dog","Eagle"};
 		String Search = "Dog";
 
 		
